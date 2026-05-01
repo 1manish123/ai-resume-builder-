@@ -19,7 +19,7 @@ Welcome to the **AI Resume Builder**, a full-stack application designed to help 
 ## 📅 5-Day Challenge Roadmap
 - [x] **Day 1**: Initial Setup, Basic UI, and Database Configuration
 - [x] **Day 2**: Modern UI Refinements, Form Validations, & Git Tracking
-- [ ] **Day 3**: Pending...
+- [x] **Day 3**: Advanced Integrations & Components
 - [ ] **Day 4**: Pending...
 - [ ] **Day 5**: Final Polish & Deployment
 
