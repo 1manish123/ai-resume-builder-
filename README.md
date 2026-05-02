@@ -20,7 +20,7 @@ Welcome to the **AI Resume Builder**, a full-stack application designed to help 
 - [x] **Day 1**: Initial Setup, Basic UI, and Database Configuration
 - [x] **Day 2**: Modern UI Refinements, Form Validations, & Git Tracking
 - [x] **Day 3**: Advanced Integrations & Components
-- [ ] **Day 4**: Pending...
+- [x] **Day 4**: Advanced Features & Testing
 - [ ] **Day 5**: Final Polish & Deployment
 
 ## 🚀 Getting Started
